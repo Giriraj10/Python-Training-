@@ -18,7 +18,7 @@ def Sum(n):
 		n //= 10
 		c += 1
 
-	print( Odd , Even)
+	print( Even , Odd)
 	
 n = int(input())
 Sum(n)
